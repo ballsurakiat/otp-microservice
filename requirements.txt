@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+vonage
+redis
+pydantic-settings
+slowapi
