@@ -4,3 +4,5 @@ vonage
 redis
 pydantic-settings
 slowapi
+pytest
+pytest-mock
